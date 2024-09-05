@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adiii79
 - 👀 I’m interested in web development,graphic design
-- 🌱 I’m currently learning c++,c,java,dbms
+- 🌱 I’m currently learning c++,c,fronted developed, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aditya73466@gmail.com
 
