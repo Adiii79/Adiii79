@@ -13,6 +13,7 @@
 🌱 Open to collaborations on frontend projects, UI/UX improvements, and innovative ideas
 
 📫 Reach me at aditya73466@gmail.com
+
 🔗 Let's connect and build something amazing!
 <!---
 Adiii79/Adiii79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
